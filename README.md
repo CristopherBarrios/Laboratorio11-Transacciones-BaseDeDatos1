@@ -5,7 +5,7 @@ Creado por:
 - Cristopher Jose Rodolfo Barrios Solis
 
 
-[Respuestas](./Laboratorio11-Transacciones.pdf)
+[Respuestas](./Laboratorio11 -Transacciones.pdf)
 
 [Python](./laboratorio11-18207.py)
 
